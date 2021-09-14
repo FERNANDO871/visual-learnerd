@@ -1,0 +1,39 @@
+#fondo{
+    background: #FDD2BF;
+}
+
+h1{
+    color: #FF6B6B;
+    padding: 30px;
+    margin: 40px;
+    border-radius: 20px;
+    font-size: 80px;
+    font-family: 'Tangerine', cursive;
+
+}
+section{
+    color: #FF6B6B;
+    margin: 30px;
+    padding: 20px;
+    border-radius: 20px;
+    background: #FFDEDE;
+}
+.weeks{
+    font-family: "Tangerine", cursive;
+    font-size: 80px;
+}
+
+
+article{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+
+}
+
+
+section:hover{
+ background: #DEBA9D;
+}
+
+
