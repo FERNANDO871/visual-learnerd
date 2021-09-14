@@ -1,0 +1,26 @@
+nav{
+   display: flex;
+   justify-content: space-around;
+   background: #F5FDB0;
+   padding: 20px 5px;
+   margin: 50px;
+   font-family: 'Tangerine', cursive ;
+   font-size: 50px;
+   border-radius: 10px;
+
+}
+a{
+   display: inline-block;
+   color: whitesmoke;
+   background: #28FFBF;
+   margin: 5px 20px;
+   padding: 10px;
+   text-decoration: none;
+   border-radius: 5px;
+
+}
+
+a:hover{
+   background: #BCFFB9;
+
+}

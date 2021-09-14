@@ -1,0 +1,29 @@
+h1{
+   background: grey;
+   margin: 50px;
+   padding: 50px;
+
+}
+
+#e{
+    background: indianred;
+   margin: 80px 100px ;
+   padding: 20px 25px;
+}
+
+#f{
+    background: indigo;
+    margin-left: 100px;
+    margin-top: 80px;
+    margin-bottom: 50px;
+    margin-right: 50 px;
+    padding: 50px;
+}
+
+#g{
+    background: lawngreen;
+    /* margen empezando por arriba, derecha, abajo, izquierda como en las manecillas del reloj */
+    margin: 20px 50px 200px 100px;
+
+
+}

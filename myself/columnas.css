@@ -1,0 +1,18 @@
+nav{
+    background: grey;
+    margin: 50px 1px;
+    padding: 30px;
+ 
+ }
+ 
+ .gris{
+     background: lightslategray;
+     margin: 20px;
+     padding: 20px;
+     width: 25%;
+ }
+
+ .flexible{
+    display: flex;
+
+ }
